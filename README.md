@@ -1,5 +1,5 @@
 # CreatePotentialUsernames
-A simple tool to create a potential list of usernames based on a list of names
+A simple tool to create a potential list of usernames based on a list of names (firstnames and lastnames)
 
 ## Usage
 Assume that we have a potential list of usernames in a file called `example_usernames.txt`, then pass it using `-l / --list` flag and try:
